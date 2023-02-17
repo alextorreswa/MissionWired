@@ -1,3 +1,3 @@
 # MissionWired
 
-Excercise for recruitment process 
+Exercise for recruitment process 
